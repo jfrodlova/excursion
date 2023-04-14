@@ -35,6 +35,9 @@ footer {
 
 
 /*images*/
+img {
+    margin: auto;
+}
 
 .photo-hero img {
     width: 500px;
@@ -48,6 +51,3 @@ footer {
     margin-top: 3%;
 }
 
-img {
-    margin: auto;
-}
