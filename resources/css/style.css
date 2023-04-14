@@ -37,13 +37,16 @@ footer {
 /*images*/
 
 .photo-hero img {
-    width: 350px;
+    width: 500px;
 }
 
 .features img {
     margin: 0 20%;
 }
 
+.closing img {
+    margin-top: 3%;
+}
 
 img {
     margin: auto;
